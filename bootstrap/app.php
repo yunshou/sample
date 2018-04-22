@@ -1,5 +1,6 @@
 <?php
 
+require __DIR__.'/helpers.php'; // 自動加載 helpers.php
 /*
 |--------------------------------------------------------------------------
 | Create The Application
